@@ -91,9 +91,6 @@ python watch-video/scripts/watch_video.py "demo.mp4" --sheets
   certificate error.
 - **Local files and direct video URLs need none of the above.**
 
-## Credits
+## License
 
-Frame-extraction approach inspired by
-[bradautomates/claude-video](https://github.com/bradautomates/claude-video).
-
-MIT licensed.
+MIT licensed — see [LICENSE](LICENSE).
